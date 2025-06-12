@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Leaf</string>
+    
+    <string name="welcome_title">Bienvenue sur Leaf</string>
+    <string name="welcome_description">Détectez et analysez les feuilles d\'olivier facilement</string>
+    <string name="get_started">Commencer</string>
+    
+    <string name="nav_home">Accueil</string>
+    <string name="nav_detection">Détection</string>
+    <string name="nav_history">Historique</string>
+    <string name="nav_settings">Paramètres</string>
+    
+    <string name="home_title">Accueil</string>
+    <string name="home_welcome">Bienvenue sur Leaf</string>
+    <string name="home_description">Votre compagnon de détection de feuilles d\'olivier</string>
+    <string name="home_about">À propos de Leaf</string>
+    <string name="home_about_description">Leaf est une application intelligente de détection de feuilles d\'olivier qui vous aide à analyser et identifier les feuilles d\'olivier en utilisant une technologie avancée de traitement d\'image</string>
+    <string name="home_how_it_works">Comment ça marche</string>
+    <string name="home_how_it_works_steps">Prenez une photo ou sélectionnez une image de feuilles d\'olivier\nNotre IA analyse l\'image pour détecter et compter les feuilles\nObtenez des résultats détaillés incluant le nombre de feuilles et les scores de confiance\nSauvegardez les résultats dans l\'historique pour référence future</string>
+    <string name="home_features">Fonctionnalités</string>
+    <string name="home_features_list">• Détection de feuilles en temps réel\n• Comptage précis des feuilles\n• Résultats d\'analyse détaillés\n• Suivi de l\'historique\n• Support multilingue</string>
+    
+    <string name="detection_title">Détection de Feuilles</string>
+    <string name="detection_camera">Prendre une photo</string>
+    <string name="detection_gallery">Choisir dans la galerie</string>
+    <string name="detection_result">Résultat de la détection</string>
+    <string name="detection_save">Enregistrer le résultat</string>
+    <string name="detection_retry">Réessayer</string>
+    <string name="detection_error">Erreur lors de l\'analyse de l\'image</string>
+    <string name="detection_success">Analyse terminée</string>
+    <string name="detection_saved">Résultat enregistré dans l\'historique</string>
+    
+    <string name="history_title">Historique</string>
+    <string name="history_empty">Aucun historique de détection</string>
+    <string name="history_clear">Effacer l\'historique</string>
+    <string name="history_clear_confirm">Êtes-vous sûr de vouloir effacer tout l\'historique ?</string>
+    <string name="history_delete">Supprimer</string>
+    <string name="history_delete_confirm">Êtes-vous sûr de vouloir supprimer cette détection ?</string>
+    <string name="history_date">Date : %1$s</string>
+    <string name="history_result">Résultat : %1$s</string>
+    
+    <string name="settings_title">Paramètres</string>
+    <string name="server_url">URL du serveur</string>
+    <string name="save_url">Enregistrer l\'URL</string>
+    <string name="language">Langue</string>
+    <string name="language_english">Anglais</string>
+    <string name="language_arabic">Arabe</string>
+    <string name="language_french">Français</string>
+    <string name="cancel">Annuler</string>
+    <string name="settings_saved">Paramètres enregistrés</string>
+    <string name="settings_error">Erreur lors de l\'enregistrement des paramètres</string>
+    
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="ok">OK</string>
+    <string name="error">Erreur</string>
+    <string name="success">Succès</string>
+    <string name="loading">Chargement…</string>
+    <string name="url_saved">URL Enregistrée</string>
+    <string name="url_saved_message">L\'URL du serveur a été mise à jour avec succès vers :</string>
+</resources> 

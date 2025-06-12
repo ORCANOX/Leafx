@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ليف</string>
+    
+    <string name="welcome_title">مرحباً بك في ليف</string>
+    <string name="welcome_description">اكتشف وحلل أوراق الزيتون بسهولة</string>
+    <string name="get_started">ابدأ الآن</string>
+    
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_detection">الكشف</string>
+    <string name="nav_history">السجل</string>
+    <string name="nav_settings">الإعدادات</string>
+    
+    <string name="home_title">الرئيسية</string>
+    <string name="home_welcome">مرحباً بك في ليف</string>
+    <string name="home_description">رفيقك في كشف أوراق الزيتون</string>
+    <string name="home_about">عن ليف</string>
+    <string name="home_about_description">ليف هو تطبيق ذكي لكشف أوراق الزيتون يساعدك في تحليل وتحديد أوراق الزيتون باستخدام تقنية معالجة الصور المتقدمة.</string>
+    <string name="home_how_it_works">كيف يعمل</string>
+    <string name="home_how_it_works_steps">التقط صورة أو اختر صورة لأوراق الزيتون\nيقوم الذكاء الاصطناعي بتحليل الصورة للكشف عن الأوراق وعدها\nاحصل على نتائج مفصلة تشمل عدد الأوراق ومعدلات الثقة\nاحفظ النتائج في السجل للرجوع إليها لاحقاً</string>
+    <string name="home_features">المميزات</string>
+    <string name="home_features_list">• كشف الأوراق في الوقت الفعلي\n• عد دقيق للأوراق\n• نتائج تحليل مفصلة\n• تتبع السجل\n• دعم متعدد اللغات</string>
+    <string name="detection_title">الكشف عن الأوراق</string>
+    
+    <string name="detection_camera">التقط صورة</string>
+    <string name="detection_gallery">اختر من المعرض</string>
+    <string name="detection_result">نتيجة الكشف</string>
+    <string name="detection_save">حفظ النتيجة</string>
+    <string name="detection_retry">حاول مرة أخرى</string>
+    <string name="detection_error">خطأ في تحليل الصورة</string>
+    <string name="detection_success">اكتمل التحليل</string>
+    <string name="detection_saved">تم حفظ النتيجة في السجل</string>
+    
+    <string name="history_title">السجل</string>
+    <string name="history_empty">لا يوجد سجل للكشف</string>
+    <string name="history_clear">مسح السجل</string>
+    <string name="history_clear_confirm">هل أنت متأكد من مسح كل السجل؟</string>
+    <string name="history_delete">حذف</string>
+    <string name="history_delete_confirm">هل أنت متأكد من حذف هذا الكشف؟</string>
+    <string name="history_date">التاريخ: %1$s</string>
+    <string name="history_result">النتيجة: %1$s</string>
+    
+    <string name="settings_title">الإعدادات</string>
+    <string name="server_url">رابط الخادم</string>
+    <string name="save_url">حفظ الرابط</string>
+    <string name="language">اللغة</string>
+    <string name="language_english">الإنجليزية</string>
+    <string name="language_arabic">العربية</string>
+    <string name="language_french">الفرنسية</string>
+    <string name="cancel">إلغاء</string>
+    <string name="settings_saved">تم حفظ الإعدادات</string>
+    <string name="settings_error">خطأ في حفظ الإعدادات</string>
+    
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="ok">موافق</string>
+    <string name="error">خطأ</string>
+    <string name="success">نجاح</string>
+    <string name="loading">جاري التحميل…</string>
+    <string name="url_saved">تم حفظ الرابط</string>
+    <string name="url_saved_message">تم تحديث رابط الخادم بنجاح إلى:</string>
+</resources> 
